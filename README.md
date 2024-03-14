@@ -1,1 +1,1 @@
-# -j
+# Bottstrap gyakorlás
